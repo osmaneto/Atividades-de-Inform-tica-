@@ -5,5 +5,4 @@ Atividade de Representação de Dados
 Atividade de Power BI - Fórmulas e KPI
 ![image](https://github.com/user-attachments/assets/888363c4-4990-4b60-b039-b855ffeb768c)
 Atvodade de Power BI - Fórmulas, KPI e GitHub 
-https://app.powerbi.com/links/ZDHIsD-QC7?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 ![image](https://github.com/user-attachments/assets/d016a83c-a834-4e62-8790-cc40b9f97871)
